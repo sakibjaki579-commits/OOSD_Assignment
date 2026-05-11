@@ -13,7 +13,8 @@ Java OOSD assignment with GUI and polymorphism
 ## Technologies Used
 - Java
 - NetBeans
-- Swing GUI
+- Whimsical
+- Microsoft word
 
 ## Classes Included
 - StockItem
